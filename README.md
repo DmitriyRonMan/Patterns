@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/18g0jxm6vco97823?svg=true)](https://ci.appveyor.com/project/DmitriyRonMan/patterns)
+
+
 ## Задача №1: заказ доставки карты (изменение даты) ##
 Вам необходимо автоматизировать тестирование новой функции формы заказа доставки карты:
 
